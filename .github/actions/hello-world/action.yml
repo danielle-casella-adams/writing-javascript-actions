@@ -19,4 +19,4 @@ inputs:
 
 runs:
   using: "node12"
-  main: "main.js"   # Can also be a relative path to the js file you want executed
+  main: "dist/index.js"   # Can also be a relative path to the js file you want executed
